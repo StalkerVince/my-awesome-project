@@ -1,3 +1,5 @@
 # my-awesome-project
 
-Blablablablabla
+Achievemements:
+
+J'ai réussi à faire clone, pull et je m'apprête à faire push!
